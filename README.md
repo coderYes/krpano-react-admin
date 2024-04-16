@@ -1,5 +1,5 @@
-# React Netease Music
-React Krpano 一个基于React18、TypeScript的全景漫游制作平台
+# React Netease Admin
+React Krpano Admin 一个基于React18、TypeScript的全景漫游制作平台
 
 ## 功能列表
 - [x] 登录/登出
